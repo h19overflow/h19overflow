@@ -187,15 +187,15 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Hybrid LLM + ML Assistant</h3>
+      <h3 align="center">🛡️ Nexa — Deriv Fraud Detection</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       </p>
-      <p>99% intent classification via custom Random Forest + ONNX Runtime. Hybrid agentic architecture minimizing LLM token usage with autonomous memory.</p>
+      <p>AI-powered payment fraud detection — 8 parallel rule indicators + LLM investigators for ambiguous cases. 4th place at Deriv Hackathon. 0.14s clean traffic, 12s deep investigation.</p>
     </td>
     <td width="50%">
       <h3 align="center">☁️ Student Helper</h3>
