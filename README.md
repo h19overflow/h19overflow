@@ -195,7 +195,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       </p>
-      <p>AI-powered payment fraud detection — 8 parallel rule indicators + LLM investigators for ambiguous cases. 4th place at Deriv Hackathon. 0.14s clean traffic, 12s deep investigation.</p>
+      <p>Designed the full system architecture. AI-powered payment fraud detection — 8 parallel rule indicators + LLM investigators for ambiguous cases. 4th place at Deriv Hackathon. 0.14s clean traffic, 12s deep investigation.</p>
     </td>
     <td width="50%">
       <h3 align="center">☁️ Student Helper</h3>
