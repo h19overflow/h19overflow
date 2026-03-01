@@ -141,7 +141,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔴 Aspexa Automa</h3>
+      <h3 align="center"><a href="https://github.com/h19overflow/ASPEXA_AUTOMA">🔴 Aspexa Automa</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/PyRIT-DC143C?style=flat-square&logoColor=white" />
@@ -152,7 +152,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
       <p>3-phase red-team orchestrator: Cartographer → Swarm → Snipers. Adaptive exploitation with Base64/ROT13/Unicode converters that learn from failed payloads. HITL gates before every phase.</p>
     </td>
     <td width="50%">
-      <h3 align="center">📄 Scaled Document Processing</h3>
+      <h3 align="center"><a href="https://github.com/h19overflow/scaled_processing">📄 Scaled Document Processing</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/MinerU-333333?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white" />
@@ -164,7 +164,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 Graph-Powered Agentic RAG</h3>
+      <h3 align="center"><a href="https://github.com/h19overflow/LIGHT_RAG_AGENTIC_SYSTEM">🧠 Graph-Powered Agentic RAG</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/LightRAG-4A154B?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=white" />
@@ -187,7 +187,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛡️ Nexa — Deriv Fraud Detection</h3>
+      <h3 align="center"><a href="https://github.com/h19overflow/Deriv_Hackathon">🛡️ Nexa — Deriv Fraud Detection</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -198,7 +198,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
       <p>Designed the full system architecture. AI-powered payment fraud detection — 8 parallel rule indicators + LLM investigators for ambiguous cases. 4th place at Deriv Hackathon. 0.14s clean traffic, 12s deep investigation.</p>
     </td>
     <td width="50%">
-      <h3 align="center">☁️ Student Helper</h3>
+      <h3 align="center"><a href="https://github.com/h19overflow/Student_Helper">☁️ Student Helper</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -211,7 +211,7 @@ Automated kill-chain pipelines with adaptive exploitation. Intelligence-driven v
   </tr>
   <tr>
     <td width="50%" colspan="2" align="center">
-      <h3>🫁 Pneumonia Detection with Federated Learning</h3>
+      <h3><a href="https://github.com/h19overflow/federated_learning">🫁 Pneumonia Detection with Federated Learning</a></h3>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/ResNet50V2-FF6F00?style=flat-square&logoColor=white" />
