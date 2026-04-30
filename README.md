@@ -17,7 +17,7 @@
 
 I specialize in **Agentic AI, RAG Pipelines, and Production ML** — the full arc from messy data to deployed, monitored systems. I've built pipelines that process 12,000+ documents daily, retrieval systems at 99.23% accuracy, and security tools that compress 40 hours of work into 30 minutes.
 
-CS student at **Multimedia University** (graduating May 2026) — 3.63 CGPA, 4× Dean's List, Best Final Year Project.
+CS student at **Multimedia University** (graduating May 2026) — 3.74 CGPA, 4× Dean's List, Best Final Year Project.
 
 Currently seeking an **AI/ML Engineer role** in FinTech, Healthcare, or AI-native companies.
 
